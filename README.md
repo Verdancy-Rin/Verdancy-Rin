@@ -9,7 +9,7 @@ Platform Engineer by day, tinkerer and video gamer by night. A little about me &
 - 📺 **Anime:** I have a pretty large curated list of shows I'm watching - usually streamed off my own Jellyfin server... naturally
 - 🌱 **What's New?:** I’m currently wanting to learn and understand more scripting languages.
 
-Most of what's here is likely homelab and automation stuff I built to scratch my own itches.
+Most of what's public here is likely homelab and automation stuff I built to scratch my own itches that may assist others with the same itch!
 
 ### 🏆 Achievements Unlocked
 - [x] Soldered a backlight into a Game Boy without frying it
