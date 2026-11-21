@@ -1,5 +1,10 @@
 # Hey, I'm Rin 👋
 
+[![](https://img.shields.io/badge/Website-verdancy.uk-3EB489?logo=cloudflare&logoColor=white)](https://verdancy.uk)
+[![](https://img.shields.io/badge/X-@Verdancy_-000000?logo=x&logoColor=white)](https://x.com/Verdancy_)
+[![](https://img.shields.io/badge/Bluesky-@Verdancy.uk-1185FE?logo=bluesky&logoColor=white)](https://bsky.app/profile/Verdancy.uk)
+[![](https://img.shields.io/badge/Steam-Verdancy-171A21?logo=steam&logoColor=white)](https://steamcommunity.com/id/Verdancy_)
+
 Platform Engineer by day, tinkerer and video gamer by night. A little about me & my hobbies:
 
 - 🖥️ **Self-hosting:** I run some of my own services at home, with Jellyfin as the centrepiece of my media setup
@@ -18,3 +23,5 @@ Most of what's public here is likely homelab and automation stuff I built to scr
 - [x] Said "just one more episode" and meant it (...once)
 - [ ] Clear the backlog of anime I've "definitely started"
 - [ ] Finish a Raspberry Pi project before starting the next one
+
+![](https://komarev.com/ghpvc/?username=Verdancy-Rin&color=3EB489)
