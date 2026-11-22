@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/X-@Verdancy_-000000?logo=x&logoColor=white)](https://x.com/Verdancy_)
 [![](https://img.shields.io/badge/Bluesky-@Verdancy.uk-1185FE?logo=bluesky&logoColor=white)](https://bsky.app/profile/Verdancy.uk)
 [![](https://img.shields.io/badge/Steam-Verdancy-171A21?logo=steam&logoColor=white)](https://steamcommunity.com/id/Verdancy_)
-
+[![](https://img.shields.io/badge/Email-hello@verdancy.uk-3EB489?logoColor=white)](mailto:hello@verdancy.uk)
 
 Platform Engineer by day, tinkerer and video gamer by night. A little about me & my hobbies:
 
